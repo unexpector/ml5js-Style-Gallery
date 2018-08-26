@@ -1,6 +1,4 @@
-# ml5js-Style-Gallery
-
-#ml5js Style Transfer system
+# ml5js Style Transfer system
 
 This code allows the quick and easy testing of style transfer models for ml5js.
 
@@ -19,7 +17,7 @@ Then click the blue "Change Style" button. Wait 5 seconds, then click to stop an
 
 Clone the repository and upload to any webserver, or run locally. Needs to be run in a https environment.
 
-###Adding New Models
+### Adding New Models
 To add new models, upload each  model folder to the models directory.
 When model is uploaded, add a new menu option to the menu.html file. This will make the model available to all views.
 
