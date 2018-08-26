@@ -15,7 +15,7 @@ To load a model, wait until the text at the top of the screen reads "Model Loade
 To change model, select the model name from the dropdown list. 
 Then click the blue "Change Style" button. Wait 5 seconds, then click to stop and start green buttons. Repeat the stop start button push again if it does not work.
 
-##How To Use
+## How To Use
 
 Clone the repository and upload to any webserver, or run locally. Needs to be run in a https environment.
 
@@ -27,7 +27,7 @@ When model is uploaded, add a new menu option to the menu.html file. This will m
 To Load and Change Models
 
 
-##To Do
+## To Do
 - Get fullscreen mode working 
 - Centre the overlay canvas 
 - Add more models to libray
