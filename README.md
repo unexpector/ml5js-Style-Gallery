@@ -29,10 +29,11 @@ To add new models, upload each  model folder to the models directory.
 ![alt text](https://raw.githubusercontent.com/unexpector/ml5js-Style-Gallery/master/images/model_folder.jpg)
 
 When model is uploaded, add a new menu option to the menu.html file. This will make the model available to all views.
-
+27/Aug/2018 8:20
 ![alt text](https://raw.githubusercontent.com/unexpector/ml5js-Style-Gallery/master/images/model_menu.jpg)
 
 ## To Do
 - Get fullscreen mode working 
+- Add more trained models
 - Centre the overlay canvas 
 - Add more models to libray
